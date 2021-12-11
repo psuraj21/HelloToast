@@ -1,0 +1,4 @@
+com/thebigoceaan/hellotoast/MainActivity.java
+ com.thebigoceaan.hellotoast.MainActivity
+com/thebigoceaan/hellotoast/BuildConfig.java
+ com.thebigoceaan.hellotoast.BuildConfig
